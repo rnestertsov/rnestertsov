@@ -6,6 +6,7 @@ Product-focused engineer and engineering leader with 15+ years building data pla
 
 📦 **Go Libraries** I've made for testing and development tooling
 
+* [rnestertsov/db-toolkit](https://github.com/rnestertsov/db-toolkit) - Arrow-based data I/O for Go with pull-model streaming, filter pushdown, and column projection across databases and file formats
 * [rnestertsov/slt](https://github.com/rnestertsov/slt) - engine-agnostic framework for executing SQL Logic Tests with glob filtering, optimizer comparison, and multiple sort modes
 * [rnestertsov/watch](https://github.com/rnestertsov/watch) - lightweight file watcher that auto-triggers rebuilds on changes, supporting Go, Rust, and Node.js with smart language detection
 
