@@ -4,6 +4,12 @@ Product-focused engineer and engineering leader with 15+ years building data pla
 
 ---
 
+🦆 **Open Source at Work** — projects I designed and built on the job
+
+* [coginiti-dev/QuackStore](https://github.com/coginiti-dev/QuackStore) - DuckDB extension that accelerates remote file queries (S3, HTTP, Parquet/CSV/JSON) via block-based LRU caching, with a persistent on-disk cache and corruption recovery. I led the design and built the first implementation while it was an internal project; another engineer later took over the implementation, and it was open-sourced afterwards.
+
+---
+
 📦 **Go Libraries** I've made for testing and development tooling
 
 * [rnestertsov/db-toolkit](https://github.com/rnestertsov/db-toolkit) - Arrow-based data I/O for Go with pull-model streaming, filter pushdown, and column projection across databases and file formats
